@@ -17,6 +17,7 @@ Date: 09.19.2024 By: Renz Joseph P. Parañaque Description: 03.49 P.M.
 #define PI 3.14159
 #define GRAVITY 32.1
 
+int calculateBalance();
 int main()
 {
     //Clear screen
@@ -71,38 +72,7 @@ int main()
     // Choice 2
     else if (choice == 2)
         {
-            // Clears screen
-            system("CLS");
-            // Set terminal title
-            SetConsoleTitle("Account Balance");
-            // Variables
-            double amount, interestRate, interestRate1, accountBalance, power;
-            int period;
-            // Read user input
-            printf("Please input amount: ");
-            scanf("%lf", &amount);
-            printf("Please input period (Years): ");
-            scanf("%d", &period);
-            printf("Please input interest rate: ");
-            scanf ("%lf", &interestRate);
-            // Read if variables inputted are numbers
-            if (amount < 0 )
-            {
-                putchar('\n');
-                printf("Invalid input. Amount must be non-negative.\n");
-                getch();
-            }
-            else
-            {
-                interestRate1 = 1+(interestRate / 100);
-                power = pow(interestRate1, period);
-                accountBalance = amount * power;
-                putchar('\n');
-                printf ("Account Balance is: %.2f\n", accountBalance);
-                getch();
-            }
-
-            return 0;
+           calculateBalance();
         }
     // Choice 3
     else if (choice == 3)
@@ -133,6 +103,43 @@ int main()
     else if (choice <1 || choice > 3)
     {
         printf("Invalid choice. Please try again.");
+        getch();
+    }
+
+    return 0;
+}
+
+//Local function for calculating balance
+int calculateBalance()
+{
+     // Clears screen
+    system("CLS");
+    // Set terminal title
+    SetConsoleTitle("Account Balance");
+    // Variables
+    double amount, interestRate, interestRate1, accountBalance, power;
+    int period;
+    // Read user input
+    printf("Please input amount: ");
+    scanf("%lf", &amount);
+    printf("Please input period (Years): ");
+    scanf("%d", &period);
+    printf("Please input interest rate: ");
+    scanf ("%lf", &interestRate);
+    // Read if variables inputted are numbers
+    if (amount < 0 )
+    {
+        putchar('\n');
+        printf("Invalid input. Amount must be non-negative.\n");
+        getch();
+    }
+    else
+    {
+        interestRate1 = 1+(interestRate / 100);
+        power = pow(interestRate1, period);
+        accountBalance = amount * power;
+        putchar('\n');
+        printf ("Account Balance is: %.2f\n", accountBalance);
         getch();
     }
 

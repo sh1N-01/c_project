@@ -18,7 +18,8 @@ Date: 10.01.2024 Time: 8:29 P.M.
 int main()
 {
     //Intiliaze variables
-    int nth, fibonacci, fibo0, fibo1;
+    int nth; 
+    unsigned long long fibonacci, fibo0, fibo1;
     fibonacci = 1;
     fibo0 = 0;
     fibo1 = 1;
@@ -32,7 +33,7 @@ int main()
     //Repeating loop to get Fibonacci
     for(int i = 1; i <= nth; i++)
     {
-        printf("%d ", fibonacci);
+        printf("%llu ", fibonacci);
         fibonacci = fibo0 + fibo1;
         fibo0 = fibo1;
         fibo1 = fibonacci;

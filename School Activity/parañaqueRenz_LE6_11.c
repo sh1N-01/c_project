@@ -3,7 +3,7 @@
 FILE : parañaqueRenz_LE6_11.c
 AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Add Last two digits
-COPYRIGHT : Renz Joseph P. Parañaque
+COPYRIGHT : Renz Joseph P. Paranaque
 REVISION HISTORY
 Date: 10.08.2024 Time: 03:42 P.M.
 Date: 10.11.2024 TIme: 11:28 P.M.

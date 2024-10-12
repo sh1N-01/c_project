@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : LE3,12.c
-AUTHOR : Renz Joseph P. Parañaque
+AUTHOR : Renz Joseph P. Paranaque
 DESCRIPTION : Weekly Pay. Create a program that asks for user's yearly pay and displays his weekly pay.
 COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
 REVISION HISTORY

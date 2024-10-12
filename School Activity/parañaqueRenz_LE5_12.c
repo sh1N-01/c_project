@@ -3,7 +3,7 @@
 FILE : parañaqueRenz_LE5_12.c
 AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Passcode Lock
-COPYRIGHT : Renz Joseph P. Parañaque
+COPYRIGHT : Renz Joseph P. Paranaque
 REVISION HISTORY
 Date: 09.25.2024 Time: 10:15 PM
 ============================================================================

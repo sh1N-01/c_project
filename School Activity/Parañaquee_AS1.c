@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : Parañaque_AS1.c
-AUTHOR : Renz Joseph P. Parañaque
+AUTHOR : Renz Joseph P. Paranaque
 DESCRIPTION : Selection Structure: Create a program that lets a user select
 the method of calculation, either calculate the area and volume of a cylinder,
 calculate account balance, and calculate final velocity and time travelled.

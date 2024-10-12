@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : parañaqueRenz_LE5_23.c
-AUTHOR : Renz Joseph P. Para�aque
+AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Fibonacci Series. Create a program that will display the 1-N 
 value of the Fibonacci sequence. Use a space for the spacing between numbers horizontally.
 COPYRIGHT : Renz Joseph P. Para�aque

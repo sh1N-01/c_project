@@ -1,10 +1,10 @@
 /*
 ============================================================================
 FILE : para164aqueRenz_LE4_11.c
-AUTHOR : Renz Joseph P. Parañaque
+AUTHOR : Renz Joseph P. ParaÃ±aque
 DESCRIPTION : Vowel and Consonant. Determine whether the letter entered by the user is vowel or consonant.
 Do not use predefine functions (isAlpha, tolower, toupper, etc.).
-COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
+COPYRIGHT : Renz Joseph P. ParaÃ±aque, StackOverflow
 REVISION HISTORY
 Date: 09.12.2024 Time: 02:29 PM
 ============================================================================

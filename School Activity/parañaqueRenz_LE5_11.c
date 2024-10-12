@@ -2,7 +2,7 @@
 ============================================================================
 FILE : parañaqueRenz_LE5_11.c
 AUTHOR : Renz Joseph P. Parañaque
-DESCRIPTION : Average of Even Numbers and Product of Odd Numbers.
+DESCRIPTION : Average of Even Numbers and Product of Odd Numbers
 COPYRIGHT : Renz Joseph P. Parañaque
 REVISION HISTORY
 Date: 09.25.2024 Time: 09:45 PM

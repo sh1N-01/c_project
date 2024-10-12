@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : para164aqueRenz_LE4_12.c
-AUTHOR : Renz Joseph P. Parañaque
+AUTHOR : Renz Joseph P. ParaÃ±aque
 DESCRIPTION : Quadratic Equation. Compute the real roots of a quadratic equation .
 The roots can be calculated using the following formulas: . It will prompt the user to enter the constants (a, b, c)
 and display the roots based on the following rules:
@@ -9,7 +9,7 @@ and display the roots based on the following rules:
     - If a is zero, there is only one root (-c/b).
     - If the discriminate (b2-4ac) is negative, there are no real roots
     - For all other combinations, there are two roots.
-COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
+COPYRIGHT : Renz Joseph P. ParaÃ±aque, StackOverflow
 REVISION HISTORY
 Date: 09.12.2024 Time: 03:36 PM
 ============================================================================

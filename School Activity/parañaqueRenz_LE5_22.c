@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : parañaqueRenz_LE_5_22.c
-AUTHOR : Renz Joseph P. Para�aque
+AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Pyramid. Create a program that would display a number pyramid, 
 not exceeding the row number
 COPYRIGHT : Renz Joseph P. Para�aque

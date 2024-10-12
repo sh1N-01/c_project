@@ -1,7 +1,7 @@
 /*
 ============================================================================
 FILE : parañaqueRenz_LE_5_21.c
-AUTHOR : Renz Joseph P. Para�aque
+AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Multiplication Table. The program will ask the user to input the
 number of rows and columns the table should have and display the multiplication table on screen.
 Use tab for the spacing between numbers horizontally.

@@ -11,7 +11,7 @@ and display the roots based on the following rules:
     - For all other combinations, there are two roots.
 COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
 REVISION HISTORY
-Date: 09.12.2024 Time: 03:36 PM
+Date: 09.12.2024 Time: 03:36 P.M
 ============================================================================
 */
 #include<math.h> //This header is used for mathematical functions like sin(), cos(), and sqrt().//

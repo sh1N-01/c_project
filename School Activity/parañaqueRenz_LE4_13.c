@@ -2,9 +2,9 @@
 ============================================================================
 FILE : para164aqueRenz_LE4_13.c
 AUTHOR : Renz Joseph P. Parañaque
-DESCRIPTION :  Determine a student�s final grade and indicate whether it is passing or failing.
+DESCRIPTION :  Determine a student's final grade and indicate whether it is passing or failing.
 The final grade is calculated as the average of four marks (between 0 and 100). Passing grade of 50.
-COPYRIGHT : Renz Joseph P. Para�aque, StackOverflow
+COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
 REVISION HISTORY
 Date: 09.12.2024 Time: 04:11 P.M.
 ============================================================================

@@ -7,7 +7,7 @@ the method of calculation, either calculate the area and volume of a cylinder,
 calculate account balance, and calculate final velocity and time travelled.
 COPYRIGHT : Renz Joseph P. Parañaque
 REVISION HISTORY
-Date: 09.19.2024 By: Renz Joseph P. Parañaque Description: 03.49 P.M.
+Date: 09.19.2024 By: Renz Joseph P. Parañaque Description: 03.49 P.M
 ============================================================================
 */
 #include<stdio.h>

@@ -6,7 +6,7 @@ DESCRIPTION : Vowel and Consonant. Determine whether the letter entered by the u
 Do not use predefine functions (isAlpha, tolower, toupper, etc.).
 COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
 REVISION HISTORY
-Date: 09.12.2024 Time: 02:29 PM
+Date: 09.12.2024 Time: 02:29 P.M
 ============================================================================
 */
 #include<stdio.h>

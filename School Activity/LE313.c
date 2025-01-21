@@ -1,6 +1,6 @@
 /*
 ============================================================================
-FILE : LE3.13.cpp
+FILE : LE3.13.c
 AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Tuition Fee. Create a program that prints the tuition for 2 semesters at ABC College. 
 ABC charges PHP 450 for registration, plus PHP 450 per unit and a penalty of PHP 2,260 for each 12 units or fraction of 12.

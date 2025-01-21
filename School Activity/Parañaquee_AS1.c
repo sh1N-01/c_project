@@ -16,6 +16,7 @@ Date: 09.19.2024 By: Renz Joseph P. Parañaque Description: 03.49 P.M.
 #include<windows.h>
 #define PI 3.14159
 #define GRAVITY 32.1
+>>>>>>> 9d50bf5c2979207e02d388fed4a379ccdfaf62de
 
 int calculateBalance();
 int main()

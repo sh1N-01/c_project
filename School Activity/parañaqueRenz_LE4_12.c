@@ -19,6 +19,7 @@ Date: 09.12.2024 Time: 03:36 PM
 #include<stdlib.h> //This file includes functions for memory allocation, process control, conversions, and other utility functions.//
 #include<string.h> //It provides functions for manipulating C strings, such as strlen(), strcpy(), and strcat().//
 #include<windows.h> //Operating-system specific header.//
+>>>>>>> 9d50bf5c2979207e02d388fed4a379ccdfaf62de
 
 int main()
 {

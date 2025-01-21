@@ -1,7 +1,8 @@
+<<<<<<< HEAD
 /*
 ============================================================================
 FILE : LE3,12.c
-AUTHOR : Renz Joseph P. Paranaque
+AUTHOR : Renz Joseph P. Parañaque
 DESCRIPTION : Add Digits. Create a program that extracts and adds the two least significant digits of an integer.
 COPYRIGHT : Renz Joseph P. Parañaque, StackOverflow
 REVISION HISTORY

@@ -12,6 +12,7 @@ Date: 09.12.2024 Time: 02:29 PM
 #include<stdio.h>
 #include<stdlib.h>
 #include<windows.h> //Operating-system specific header.//
+>>>>>>> 9d50bf5c2979207e02d388fed4a379ccdfaf62de
 
 int main()
 {

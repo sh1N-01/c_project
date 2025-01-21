@@ -19,6 +19,7 @@ int main()
 {
     //Sets console title//
     SetConsoleTitle("Student's FInal Grade");
+>>>>>>> 9d50bf5c2979207e02d388fed4a379ccdfaf62de
 
     //Get usre input//
     float first, second, third, fourth, average;

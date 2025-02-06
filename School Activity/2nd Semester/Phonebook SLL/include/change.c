@@ -11,13 +11,11 @@ int changE()
 
     Contact *temp = head;
     
-    while (temp != NULL) 
-    {
+    while (temp != NULL) {
         if (temp->mobile == mobile) 
         {
             printf("Contact found: %s, Mobile: %d\n", temp->name, temp->mobile);
             sleep(3);
-
             printf("\nEnter new name: ");
             scanf("%s", temp->name);
             printf("Enter new mobile number: ");

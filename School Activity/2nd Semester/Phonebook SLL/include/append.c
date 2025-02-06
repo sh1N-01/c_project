@@ -1,8 +1,6 @@
 #include<stdlib.h>
 #include<unistd.h>
 
-#include "../lib/main.h"
-
 #include "../src/clone.c"
 
 int appenD() 
@@ -21,7 +19,6 @@ int appenD()
     newContact->mobile = errorTrap1();
 
     newContact->next = NULL;
-    newContact->prev = NULL;
 
     if (head == NULL) 
     {
@@ -37,10 +34,7 @@ int appenD()
         {
             temp = temp->next;
         }
-
         temp->next = newContact;
-        newContact->prev = temp;
-
     }
 
     printf("\nContact added successfully! ");

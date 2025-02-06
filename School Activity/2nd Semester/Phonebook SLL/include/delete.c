@@ -6,30 +6,20 @@ int deletE(Contact **head)
     scanf("%d", &mobile);
 
     Contact *temp = *head;
-    Contact *temp1 = NULL;
+    Contact *prev = NULL;
 
     while (temp != NULL)
     {
         if (temp->mobile == mobile)
         {
-            if (temp1 == NULL)
+            if (prev == NULL)
             {
                 *head = temp->next; 
-
-                if(*head != NULL)
-                {
-                    (*head)->prev = NULL;
-                }
             }
 
             else
             {
-                temp1->next = temp->next;
-
-                if(temp->next != NULL)
-                {
-                    temp->next->prev = temp1;
-                }
+                prev->next = temp->next;
             }
 
             free(temp);
@@ -38,7 +28,7 @@ int deletE(Contact **head)
             exit(clone());
         }
 
-        temp1 = temp;
+        prev = temp;
         temp = temp->next;
     }
 

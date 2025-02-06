@@ -1,4 +1,4 @@
-/*Phonebook using Doubly Linked List*/
+/*Phonebook using Singly Linked List*/
 #include <stdio.h>
 #include <ctype.h>
 
